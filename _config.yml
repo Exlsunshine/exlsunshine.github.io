@@ -18,7 +18,7 @@
 title: Awesome
 email: exlsunshine@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Exlsunshie Is Awesome :sunglasses: .
+  Exlsunshie Is Awesome :sunglasses:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: exlsunshine
