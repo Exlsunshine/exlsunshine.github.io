@@ -7,6 +7,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to another page](./another-page.html).
 
 [First post](./_posts/2020-07-23-welcome-to-jekyll.markdown)
+[2nd post](./_posts/2020-07-22-first-blog.md)
 
 There should be whitespace between paragraphs.
 

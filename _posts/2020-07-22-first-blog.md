@@ -1,3 +1,4 @@
 ### It works!
 
 * Aha!
+:smile:
