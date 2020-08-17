@@ -10,3 +10,5 @@ layout: default
 [First post](./_posts/2020-07-23-welcome-to-jekyll.markdown)
 
 [2nd post](./_posts/2020-07-22-first-blog.md)
+
+[ML post](./_posts/2020-08-17-ML.md)
